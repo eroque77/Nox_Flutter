@@ -1,0 +1,11 @@
+FLUTTER:
+	Início:27/04/2022 - H2E
+
+	# GIT HUB: git clone https://github.com/eroque77/Nox_Flutter.git
+	# BRANCH DEVELOP
+		# GIT FLOW
+		# CRIAR UMA BRANCH MASTER
+		# CRIAR UMA BRANCH DEVELOP
+			# git checkout -b NoxArcana2022
+			# git flow init
+			# git flow feature start NoxArcana2022

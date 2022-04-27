@@ -1,0 +1,31 @@
+FLUTTER:
+	Início:27/04/2022 - H2E
+
+	* FRAMEWORK FEITO EM DARK [DA GOOGLE LANÇADO EM 2018]
+	* BASEADO EM CLASSES
+	* UTILIZA A LINGUAGEM DART
+		* CURSO GRÁTIS DART [UDEMY]
+	* SITE: https://flutter.dev/
+
+INSTALAÇÃO: [WINDOWS]
+	
+	* BAIXAR NO SITE A VERSÃO PARA WINDOWS [SDK DE INSTALAÇÃO]
+	* EXTRAIR O SDK [NO CAMINHO: C:\src  -  CRIAR A PASTA FLUTTER NESTE CAMINHO [SDK ZIP]
+	* VARIÁVEIS DE AMBIENTE: EM PATH - USUÁRIO: ADICIONAR: C:\src\Flutter\bin  [Executar comandos do Flutter] 
+	* BAIXAR ANDROID STUDIO
+	* BAIXAR VSCODE [IDE MAIS LEVE]
+		* CONFIFURAÇÃO
+		* BAIXAR PLUGIN DO FLUTTER [PARA VSCODE]
+		* APÓS AS INSTALAÇÕES - TERMINAL: flutter doctor [DIGITAR O COMANDO PARA VER SE PRECISA INSTALAR MAIS ALGUMA COISA]
+----------------------------------------------------------------------------------------------------------------------------------|
+
+CRIAÇÃO DO PROJETO
+
+	* ACESSAR A PASTA DESEJADA
+	* NO TERMINAL DIGITAR:
+		* flutter create nox_arcana
+		
+
+	
+	
+		
